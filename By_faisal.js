@@ -4,11 +4,11 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("ايدي الروم")
+let channel =     client.channels.get("514075872752304161")
 setInterval(function() {
-channel.send(`اسم الروم `);
+channel.send(`spam`);
 }, 25)
 })
  
  
-client.login('TOKEN');
+client.login('NDYzMjU0MDIxNDI4MzQ2ODkw.DtRPmg.N5LpulWev2sXzKqOR0AgQ7nGKJQ');
